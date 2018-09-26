@@ -6,7 +6,7 @@
   "scripts": {
     "install": "cd customtypings && npm install",
     "build": "tsc -p tsconfig.json"
-  }
+  },
 
   "dependencies": {
     "three": "^0.96.0",

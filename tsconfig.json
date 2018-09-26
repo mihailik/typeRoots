@@ -1,5 +1,6 @@
 {
    "compilerOptions": {
+       "lib": ["es6", "dom"],
        "typeRoots" : ["./customtypings/node_modules/@types"],
        "strict" : true
    }
