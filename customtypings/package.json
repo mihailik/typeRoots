@@ -1,0 +1,8 @@
+{
+  "name": "customtypings",
+  "version": "0.0.0",
+  "repository": "",
+  "dependencies": {
+    "@types/three": "^0.92.23"
+  }
+}
