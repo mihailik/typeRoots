@@ -1,0 +1,6 @@
+{
+   "compilerOptions": {
+       "typeRoots" : ["./customtypings/node_modules/@types"],
+       "strict" : true
+   }
+}
